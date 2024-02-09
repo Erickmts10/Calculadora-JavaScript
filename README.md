@@ -5,10 +5,10 @@ Esse projeto tem com objetivo, criar uma calculadora que faça as operações ma
 
 ## Tecnologia utilizada: HTML, CSS, FlexBox e JavaScript,
 
-1-Passo - Definir layout da calculadora 
-2-Passo - Definir operações matemáticas.
-3-passo - testar funcionalidades
-3-passo - subir para o gitHub.
+1-Passo - Definir layout da calculadora.<br/>
+2-Passo - Definir operações matemáticas.<br/>
+3-passo - testar funcionalidades.<br/>
+3-passo - subir para o gitHub.<br/>
 4-passo - utilizar o vercel para disponibilizar no GitPages.
 
 
