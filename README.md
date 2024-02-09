@@ -1,2 +1,16 @@
-# Calculadora-JavaScript
-Calculadora-JavaScript
+
+# Calculadora JavaScript
+
+Esse projeto tem com objetivo, criar uma calculadora que faça as operações matemáticas básicas; e futuramente, provisionar uma alteração para uma calculadora científicas.
+
+## Tecnologia utilizada: HTML, CSS, FlexBox e JavaScript,
+
+1-Passo - Definir layout da calculadora 
+2-Passo - Definir operações matemáticas.
+3-passo - testar funcionalidades
+3-passo - subir para o gitHub.
+4-passo - utilizar o vercel para disponibilizar no GitPages.
+
+
+
+
