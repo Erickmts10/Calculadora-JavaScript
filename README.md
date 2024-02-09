@@ -11,6 +11,7 @@ Esse projeto tem com objetivo, criar uma calculadora que faça as operações ma
 3-passo - subir para o gitHub.<br/>
 4-passo - utilizar o vercel para disponibilizar no GitPages.
 
+Continua...
 
 
 
